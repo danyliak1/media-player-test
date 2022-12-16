@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'Commercial', :file => 'LICENSE' }
   s.authors          = {  'rohan-elear' => 'rohansahay@elear.solutions',
                           'shrinivas-elear' => 'shrinivasgutte@elear.solutions' }
-  s.source           = {  :git => 'https://github.com/ashishbajaj99/cocomediaplayer-swift.git',
+  s.source           = {  :git => 'https://github.com/danyliak1/media-player-test.git',
                           :tag => "#{s.version}" }
 
   s.swift_version = '5'

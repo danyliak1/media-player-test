@@ -1,0 +1,6 @@
+framework module Pods_CocoMediaPlayer_CocoMediaPlayerTests {
+  umbrella header "Pods-CocoMediaPlayer-CocoMediaPlayerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
